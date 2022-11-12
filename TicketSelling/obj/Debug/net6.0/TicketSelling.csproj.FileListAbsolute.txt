@@ -1,0 +1,30 @@
+F:\1651\TicketSelling\obj\Debug\net6.0\TicketSelling.csproj.AssemblyReference.cache
+F:\1651\TicketSelling\obj\Debug\net6.0\TicketSelling.GeneratedMSBuildEditorConfig.editorconfig
+F:\1651\TicketSelling\obj\Debug\net6.0\TicketSelling.AssemblyInfoInputs.cache
+F:\1651\TicketSelling\obj\Debug\net6.0\TicketSelling.AssemblyInfo.cs
+F:\1651\TicketSelling\obj\Debug\net6.0\TicketSelling.csproj.CoreCompileInputs.cache
+F:\1651\TicketSelling\bin\Debug\net6.0\TicketSelling.exe
+F:\1651\TicketSelling\bin\Debug\net6.0\TicketSelling.deps.json
+F:\1651\TicketSelling\bin\Debug\net6.0\TicketSelling.runtimeconfig.json
+F:\1651\TicketSelling\bin\Debug\net6.0\TicketSelling.dll
+F:\1651\TicketSelling\bin\Debug\net6.0\TicketSelling.pdb
+F:\1651\TicketSelling\obj\Debug\net6.0\TicketSelling.dll
+F:\1651\TicketSelling\obj\Debug\net6.0\refint\TicketSelling.dll
+F:\1651\TicketSelling\obj\Debug\net6.0\TicketSelling.pdb
+F:\1651\TicketSelling\obj\Debug\net6.0\TicketSelling.genruntimeconfig.cache
+F:\1651\TicketSelling\obj\Debug\net6.0\ref\TicketSelling.dll
+F:\Advanced Programming\TicketSelling\bin\Debug\net6.0\TicketSelling.exe
+F:\Advanced Programming\TicketSelling\bin\Debug\net6.0\TicketSelling.deps.json
+F:\Advanced Programming\TicketSelling\bin\Debug\net6.0\TicketSelling.runtimeconfig.json
+F:\Advanced Programming\TicketSelling\bin\Debug\net6.0\TicketSelling.dll
+F:\Advanced Programming\TicketSelling\bin\Debug\net6.0\TicketSelling.pdb
+F:\Advanced Programming\TicketSelling\obj\Debug\net6.0\TicketSelling.csproj.AssemblyReference.cache
+F:\Advanced Programming\TicketSelling\obj\Debug\net6.0\TicketSelling.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\TicketSelling\obj\Debug\net6.0\TicketSelling.AssemblyInfoInputs.cache
+F:\Advanced Programming\TicketSelling\obj\Debug\net6.0\TicketSelling.AssemblyInfo.cs
+F:\Advanced Programming\TicketSelling\obj\Debug\net6.0\TicketSelling.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\TicketSelling\obj\Debug\net6.0\TicketSelling.dll
+F:\Advanced Programming\TicketSelling\obj\Debug\net6.0\refint\TicketSelling.dll
+F:\Advanced Programming\TicketSelling\obj\Debug\net6.0\TicketSelling.pdb
+F:\Advanced Programming\TicketSelling\obj\Debug\net6.0\TicketSelling.genruntimeconfig.cache
+F:\Advanced Programming\TicketSelling\obj\Debug\net6.0\ref\TicketSelling.dll

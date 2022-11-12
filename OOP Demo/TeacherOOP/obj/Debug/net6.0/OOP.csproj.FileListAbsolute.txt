@@ -1,0 +1,30 @@
+F:\Advanced Programming\OOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+F:\Advanced Programming\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+F:\Advanced Programming\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+F:\Advanced Programming\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\OOP\bin\Debug\net6.0\OOP.exe
+F:\Advanced Programming\OOP\bin\Debug\net6.0\OOP.deps.json
+F:\Advanced Programming\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+F:\Advanced Programming\OOP\bin\Debug\net6.0\OOP.dll
+F:\Advanced Programming\OOP\bin\Debug\net6.0\OOP.pdb
+F:\Advanced Programming\OOP\obj\Debug\net6.0\OOP.dll
+F:\Advanced Programming\OOP\obj\Debug\net6.0\refint\OOP.dll
+F:\Advanced Programming\OOP\obj\Debug\net6.0\OOP.pdb
+F:\Advanced Programming\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+F:\Advanced Programming\OOP\obj\Debug\net6.0\ref\OOP.dll
+F:\Advanced Programming\OOP Demo\TeacherOOP\bin\Debug\net6.0\OOP.exe
+F:\Advanced Programming\OOP Demo\TeacherOOP\bin\Debug\net6.0\OOP.deps.json
+F:\Advanced Programming\OOP Demo\TeacherOOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+F:\Advanced Programming\OOP Demo\TeacherOOP\bin\Debug\net6.0\OOP.dll
+F:\Advanced Programming\OOP Demo\TeacherOOP\bin\Debug\net6.0\OOP.pdb
+F:\Advanced Programming\OOP Demo\TeacherOOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+F:\Advanced Programming\OOP Demo\TeacherOOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\OOP Demo\TeacherOOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+F:\Advanced Programming\OOP Demo\TeacherOOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+F:\Advanced Programming\OOP Demo\TeacherOOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\OOP Demo\TeacherOOP\obj\Debug\net6.0\OOP.dll
+F:\Advanced Programming\OOP Demo\TeacherOOP\obj\Debug\net6.0\refint\OOP.dll
+F:\Advanced Programming\OOP Demo\TeacherOOP\obj\Debug\net6.0\OOP.pdb
+F:\Advanced Programming\OOP Demo\TeacherOOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+F:\Advanced Programming\OOP Demo\TeacherOOP\obj\Debug\net6.0\ref\OOP.dll

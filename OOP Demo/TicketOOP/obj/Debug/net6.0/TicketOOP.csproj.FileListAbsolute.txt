@@ -1,0 +1,30 @@
+F:\Advanced Programming\TicketOOP\bin\Debug\net6.0\TicketOOP.exe
+F:\Advanced Programming\TicketOOP\bin\Debug\net6.0\TicketOOP.deps.json
+F:\Advanced Programming\TicketOOP\bin\Debug\net6.0\TicketOOP.runtimeconfig.json
+F:\Advanced Programming\TicketOOP\bin\Debug\net6.0\TicketOOP.dll
+F:\Advanced Programming\TicketOOP\bin\Debug\net6.0\TicketOOP.pdb
+F:\Advanced Programming\TicketOOP\obj\Debug\net6.0\TicketOOP.csproj.AssemblyReference.cache
+F:\Advanced Programming\TicketOOP\obj\Debug\net6.0\TicketOOP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\TicketOOP\obj\Debug\net6.0\TicketOOP.AssemblyInfoInputs.cache
+F:\Advanced Programming\TicketOOP\obj\Debug\net6.0\TicketOOP.AssemblyInfo.cs
+F:\Advanced Programming\TicketOOP\obj\Debug\net6.0\TicketOOP.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\TicketOOP\obj\Debug\net6.0\TicketOOP.dll
+F:\Advanced Programming\TicketOOP\obj\Debug\net6.0\refint\TicketOOP.dll
+F:\Advanced Programming\TicketOOP\obj\Debug\net6.0\TicketOOP.pdb
+F:\Advanced Programming\TicketOOP\obj\Debug\net6.0\TicketOOP.genruntimeconfig.cache
+F:\Advanced Programming\TicketOOP\obj\Debug\net6.0\ref\TicketOOP.dll
+F:\Advanced Programming\OOP Demo\TicketOOP\bin\Debug\net6.0\TicketOOP.exe
+F:\Advanced Programming\OOP Demo\TicketOOP\bin\Debug\net6.0\TicketOOP.deps.json
+F:\Advanced Programming\OOP Demo\TicketOOP\bin\Debug\net6.0\TicketOOP.runtimeconfig.json
+F:\Advanced Programming\OOP Demo\TicketOOP\bin\Debug\net6.0\TicketOOP.dll
+F:\Advanced Programming\OOP Demo\TicketOOP\bin\Debug\net6.0\TicketOOP.pdb
+F:\Advanced Programming\OOP Demo\TicketOOP\obj\Debug\net6.0\TicketOOP.csproj.AssemblyReference.cache
+F:\Advanced Programming\OOP Demo\TicketOOP\obj\Debug\net6.0\TicketOOP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\OOP Demo\TicketOOP\obj\Debug\net6.0\TicketOOP.AssemblyInfoInputs.cache
+F:\Advanced Programming\OOP Demo\TicketOOP\obj\Debug\net6.0\TicketOOP.AssemblyInfo.cs
+F:\Advanced Programming\OOP Demo\TicketOOP\obj\Debug\net6.0\TicketOOP.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\OOP Demo\TicketOOP\obj\Debug\net6.0\TicketOOP.dll
+F:\Advanced Programming\OOP Demo\TicketOOP\obj\Debug\net6.0\refint\TicketOOP.dll
+F:\Advanced Programming\OOP Demo\TicketOOP\obj\Debug\net6.0\TicketOOP.pdb
+F:\Advanced Programming\OOP Demo\TicketOOP\obj\Debug\net6.0\TicketOOP.genruntimeconfig.cache
+F:\Advanced Programming\OOP Demo\TicketOOP\obj\Debug\net6.0\ref\TicketOOP.dll

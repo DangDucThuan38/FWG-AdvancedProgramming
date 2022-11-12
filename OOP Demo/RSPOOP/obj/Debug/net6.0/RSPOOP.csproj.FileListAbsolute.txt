@@ -1,0 +1,15 @@
+F:\Advanced Programming\RSPOOP\obj\Debug\net6.0\RSPOOP.csproj.AssemblyReference.cache
+F:\Advanced Programming\RSPOOP\obj\Debug\net6.0\RSPOOP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\RSPOOP\obj\Debug\net6.0\RSPOOP.AssemblyInfoInputs.cache
+F:\Advanced Programming\RSPOOP\obj\Debug\net6.0\RSPOOP.AssemblyInfo.cs
+F:\Advanced Programming\RSPOOP\obj\Debug\net6.0\RSPOOP.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\RSPOOP\bin\Debug\net6.0\RSPOOP.exe
+F:\Advanced Programming\RSPOOP\bin\Debug\net6.0\RSPOOP.deps.json
+F:\Advanced Programming\RSPOOP\bin\Debug\net6.0\RSPOOP.runtimeconfig.json
+F:\Advanced Programming\RSPOOP\bin\Debug\net6.0\RSPOOP.dll
+F:\Advanced Programming\RSPOOP\bin\Debug\net6.0\RSPOOP.pdb
+F:\Advanced Programming\RSPOOP\obj\Debug\net6.0\RSPOOP.dll
+F:\Advanced Programming\RSPOOP\obj\Debug\net6.0\refint\RSPOOP.dll
+F:\Advanced Programming\RSPOOP\obj\Debug\net6.0\RSPOOP.pdb
+F:\Advanced Programming\RSPOOP\obj\Debug\net6.0\RSPOOP.genruntimeconfig.cache
+F:\Advanced Programming\RSPOOP\obj\Debug\net6.0\ref\RSPOOP.dll
