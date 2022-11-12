@@ -1,0 +1,15 @@
+F:\Advanced Programming\EX\OOPAuthor\obj\Debug\net6.0\OOPAuthor.csproj.AssemblyReference.cache
+F:\Advanced Programming\EX\OOPAuthor\obj\Debug\net6.0\OOPAuthor.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\EX\OOPAuthor\obj\Debug\net6.0\OOPAuthor.AssemblyInfoInputs.cache
+F:\Advanced Programming\EX\OOPAuthor\obj\Debug\net6.0\OOPAuthor.AssemblyInfo.cs
+F:\Advanced Programming\EX\OOPAuthor\obj\Debug\net6.0\OOPAuthor.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\EX\OOPAuthor\bin\Debug\net6.0\OOPAuthor.exe
+F:\Advanced Programming\EX\OOPAuthor\bin\Debug\net6.0\OOPAuthor.deps.json
+F:\Advanced Programming\EX\OOPAuthor\bin\Debug\net6.0\OOPAuthor.runtimeconfig.json
+F:\Advanced Programming\EX\OOPAuthor\bin\Debug\net6.0\OOPAuthor.dll
+F:\Advanced Programming\EX\OOPAuthor\bin\Debug\net6.0\OOPAuthor.pdb
+F:\Advanced Programming\EX\OOPAuthor\obj\Debug\net6.0\OOPAuthor.dll
+F:\Advanced Programming\EX\OOPAuthor\obj\Debug\net6.0\refint\OOPAuthor.dll
+F:\Advanced Programming\EX\OOPAuthor\obj\Debug\net6.0\OOPAuthor.pdb
+F:\Advanced Programming\EX\OOPAuthor\obj\Debug\net6.0\OOPAuthor.genruntimeconfig.cache
+F:\Advanced Programming\EX\OOPAuthor\obj\Debug\net6.0\ref\OOPAuthor.dll

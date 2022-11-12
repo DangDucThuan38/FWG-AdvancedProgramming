@@ -1,0 +1,15 @@
+F:\Advanced Programming\EX\OOPCircle\obj\Debug\net6.0\OOPCircle.csproj.AssemblyReference.cache
+F:\Advanced Programming\EX\OOPCircle\obj\Debug\net6.0\OOPCircle.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\EX\OOPCircle\obj\Debug\net6.0\OOPCircle.AssemblyInfoInputs.cache
+F:\Advanced Programming\EX\OOPCircle\obj\Debug\net6.0\OOPCircle.AssemblyInfo.cs
+F:\Advanced Programming\EX\OOPCircle\obj\Debug\net6.0\OOPCircle.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\EX\OOPCircle\bin\Debug\net6.0\OOPCircle.exe
+F:\Advanced Programming\EX\OOPCircle\bin\Debug\net6.0\OOPCircle.deps.json
+F:\Advanced Programming\EX\OOPCircle\bin\Debug\net6.0\OOPCircle.runtimeconfig.json
+F:\Advanced Programming\EX\OOPCircle\bin\Debug\net6.0\OOPCircle.dll
+F:\Advanced Programming\EX\OOPCircle\bin\Debug\net6.0\OOPCircle.pdb
+F:\Advanced Programming\EX\OOPCircle\obj\Debug\net6.0\OOPCircle.dll
+F:\Advanced Programming\EX\OOPCircle\obj\Debug\net6.0\refint\OOPCircle.dll
+F:\Advanced Programming\EX\OOPCircle\obj\Debug\net6.0\OOPCircle.pdb
+F:\Advanced Programming\EX\OOPCircle\obj\Debug\net6.0\OOPCircle.genruntimeconfig.cache
+F:\Advanced Programming\EX\OOPCircle\obj\Debug\net6.0\ref\OOPCircle.dll
