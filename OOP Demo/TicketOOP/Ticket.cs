@@ -10,20 +10,26 @@ namespace TicketOOP
         private int number;
 
         // TODO: write properties, default constructor & parameterized constructor
-        public string Movie 
+        public string Movie
         {
             get { return movie; }
             set { movie = value; }
         }
-        public string Seats 
+        public string Seats
         {
             get { return seats; }
-            set { seats = value; }
+            set
+            {
+                seats = value;
+            }
         }
-        public int Number 
+        public int Number
         {
             get { return number; }
-            set { number = value; }
+            set
+            {
+                 number = value;
+            }
         }
         public Ticket()
         {
@@ -31,14 +37,14 @@ namespace TicketOOP
             Seats = "";
             Number = 1;
         }
-
         public Ticket(string movie, string seats, int number)
         {
-            this.movie=movie;
-            this.seats=seats;
-            this.number=number;
+            Movie = movie;
+            Seats = seats;
+            Number = number;
         }
+      
 
-    
+
     }
 }

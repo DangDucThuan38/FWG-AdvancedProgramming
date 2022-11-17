@@ -1,0 +1,15 @@
+F:\Advanced Programming\OOP Demo\DemoStatic\bin\Debug\net6.0\DemoStatic.exe
+F:\Advanced Programming\OOP Demo\DemoStatic\bin\Debug\net6.0\DemoStatic.deps.json
+F:\Advanced Programming\OOP Demo\DemoStatic\bin\Debug\net6.0\DemoStatic.runtimeconfig.json
+F:\Advanced Programming\OOP Demo\DemoStatic\bin\Debug\net6.0\DemoStatic.dll
+F:\Advanced Programming\OOP Demo\DemoStatic\bin\Debug\net6.0\DemoStatic.pdb
+F:\Advanced Programming\OOP Demo\DemoStatic\obj\Debug\net6.0\DemoStatic.csproj.AssemblyReference.cache
+F:\Advanced Programming\OOP Demo\DemoStatic\obj\Debug\net6.0\DemoStatic.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\OOP Demo\DemoStatic\obj\Debug\net6.0\DemoStatic.AssemblyInfoInputs.cache
+F:\Advanced Programming\OOP Demo\DemoStatic\obj\Debug\net6.0\DemoStatic.AssemblyInfo.cs
+F:\Advanced Programming\OOP Demo\DemoStatic\obj\Debug\net6.0\DemoStatic.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\OOP Demo\DemoStatic\obj\Debug\net6.0\DemoStatic.dll
+F:\Advanced Programming\OOP Demo\DemoStatic\obj\Debug\net6.0\refint\DemoStatic.dll
+F:\Advanced Programming\OOP Demo\DemoStatic\obj\Debug\net6.0\DemoStatic.pdb
+F:\Advanced Programming\OOP Demo\DemoStatic\obj\Debug\net6.0\DemoStatic.genruntimeconfig.cache
+F:\Advanced Programming\OOP Demo\DemoStatic\obj\Debug\net6.0\ref\DemoStatic.dll

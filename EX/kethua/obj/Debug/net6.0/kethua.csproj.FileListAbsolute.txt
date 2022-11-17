@@ -1,0 +1,15 @@
+F:\Advanced Programming\EX\kethua\bin\Debug\net6.0\kethua.exe
+F:\Advanced Programming\EX\kethua\bin\Debug\net6.0\kethua.deps.json
+F:\Advanced Programming\EX\kethua\bin\Debug\net6.0\kethua.runtimeconfig.json
+F:\Advanced Programming\EX\kethua\bin\Debug\net6.0\kethua.dll
+F:\Advanced Programming\EX\kethua\bin\Debug\net6.0\kethua.pdb
+F:\Advanced Programming\EX\kethua\obj\Debug\net6.0\kethua.csproj.AssemblyReference.cache
+F:\Advanced Programming\EX\kethua\obj\Debug\net6.0\kethua.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\EX\kethua\obj\Debug\net6.0\kethua.AssemblyInfoInputs.cache
+F:\Advanced Programming\EX\kethua\obj\Debug\net6.0\kethua.AssemblyInfo.cs
+F:\Advanced Programming\EX\kethua\obj\Debug\net6.0\kethua.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\EX\kethua\obj\Debug\net6.0\kethua.dll
+F:\Advanced Programming\EX\kethua\obj\Debug\net6.0\refint\kethua.dll
+F:\Advanced Programming\EX\kethua\obj\Debug\net6.0\kethua.pdb
+F:\Advanced Programming\EX\kethua\obj\Debug\net6.0\kethua.genruntimeconfig.cache
+F:\Advanced Programming\EX\kethua\obj\Debug\net6.0\ref\kethua.dll

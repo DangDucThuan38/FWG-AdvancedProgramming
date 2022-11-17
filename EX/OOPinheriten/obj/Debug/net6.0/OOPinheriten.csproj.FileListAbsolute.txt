@@ -1,0 +1,15 @@
+F:\Advanced Programming\OOPinheriten\obj\Debug\net6.0\OOPinheriten.csproj.AssemblyReference.cache
+F:\Advanced Programming\OOPinheriten\obj\Debug\net6.0\OOPinheriten.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\OOPinheriten\obj\Debug\net6.0\OOPinheriten.AssemblyInfoInputs.cache
+F:\Advanced Programming\OOPinheriten\obj\Debug\net6.0\OOPinheriten.AssemblyInfo.cs
+F:\Advanced Programming\OOPinheriten\obj\Debug\net6.0\OOPinheriten.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\OOPinheriten\bin\Debug\net6.0\OOPinheriten.exe
+F:\Advanced Programming\OOPinheriten\bin\Debug\net6.0\OOPinheriten.deps.json
+F:\Advanced Programming\OOPinheriten\bin\Debug\net6.0\OOPinheriten.runtimeconfig.json
+F:\Advanced Programming\OOPinheriten\bin\Debug\net6.0\OOPinheriten.dll
+F:\Advanced Programming\OOPinheriten\bin\Debug\net6.0\OOPinheriten.pdb
+F:\Advanced Programming\OOPinheriten\obj\Debug\net6.0\OOPinheriten.dll
+F:\Advanced Programming\OOPinheriten\obj\Debug\net6.0\refint\OOPinheriten.dll
+F:\Advanced Programming\OOPinheriten\obj\Debug\net6.0\OOPinheriten.pdb
+F:\Advanced Programming\OOPinheriten\obj\Debug\net6.0\OOPinheriten.genruntimeconfig.cache
+F:\Advanced Programming\OOPinheriten\obj\Debug\net6.0\ref\OOPinheriten.dll

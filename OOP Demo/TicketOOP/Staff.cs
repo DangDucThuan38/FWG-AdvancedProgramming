@@ -6,7 +6,7 @@ namespace TicketOOP
     public class Staff
     {
         private int PRICE = 10;//Giá của cố định của một bộ phim
-        private double VIP_REDUCE = 0.2;// Giảm giá người mua là VIP
+        private double VIP_REDUCE = 0.25;// Giảm giá người mua là VIP
 
         private string[] movies = { "Black Adam", "Black Pather 2", "Detective Conan","Avatar","Fast & Furious 7","Avengers: Endgame"};
         public void PrintMovies(string[] movies)
@@ -52,7 +52,7 @@ namespace TicketOOP
                 PrintMovies(movies);
 
                 Customer c = new Customer();
-                int choice = c.GetMovieChoice();
+                int choice = c.GetMovieChoice(movies.Length);
                 int nTickets = c.GetNumberOfTickets();
                 string seats = c.GetSeats(nTickets);
                 string movie = movies[choice];
