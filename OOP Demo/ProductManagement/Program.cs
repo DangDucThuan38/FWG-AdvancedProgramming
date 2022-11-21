@@ -1,15 +1,9 @@
 ﻿using ProductManagement;
 
-Inventory shop = new Inventory();
 
-shop.Import();
-shop.Import();
-shop.Import();
+InventoryPogram p1= new InventoryPogram();
+p1.Run();
 
 
-shop.ShowProducts();
-
-shop.Export();
-shop.ShowProducts();
 
 

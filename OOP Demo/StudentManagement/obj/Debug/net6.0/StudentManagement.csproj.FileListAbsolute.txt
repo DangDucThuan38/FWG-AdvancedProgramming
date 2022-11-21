@@ -1,0 +1,15 @@
+F:\Advanced Programming\OOP Demo\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.AssemblyReference.cache
+F:\Advanced Programming\OOP Demo\StudentManagement\obj\Debug\net6.0\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\OOP Demo\StudentManagement\obj\Debug\net6.0\StudentManagement.AssemblyInfoInputs.cache
+F:\Advanced Programming\OOP Demo\StudentManagement\obj\Debug\net6.0\StudentManagement.AssemblyInfo.cs
+F:\Advanced Programming\OOP Demo\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\OOP Demo\StudentManagement\bin\Debug\net6.0\StudentManagement.exe
+F:\Advanced Programming\OOP Demo\StudentManagement\bin\Debug\net6.0\StudentManagement.deps.json
+F:\Advanced Programming\OOP Demo\StudentManagement\bin\Debug\net6.0\StudentManagement.runtimeconfig.json
+F:\Advanced Programming\OOP Demo\StudentManagement\bin\Debug\net6.0\StudentManagement.dll
+F:\Advanced Programming\OOP Demo\StudentManagement\bin\Debug\net6.0\StudentManagement.pdb
+F:\Advanced Programming\OOP Demo\StudentManagement\obj\Debug\net6.0\StudentManagement.dll
+F:\Advanced Programming\OOP Demo\StudentManagement\obj\Debug\net6.0\refint\StudentManagement.dll
+F:\Advanced Programming\OOP Demo\StudentManagement\obj\Debug\net6.0\StudentManagement.pdb
+F:\Advanced Programming\OOP Demo\StudentManagement\obj\Debug\net6.0\StudentManagement.genruntimeconfig.cache
+F:\Advanced Programming\OOP Demo\StudentManagement\obj\Debug\net6.0\ref\StudentManagement.dll

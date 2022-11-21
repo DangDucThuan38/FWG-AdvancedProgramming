@@ -32,17 +32,32 @@ namespace ProductManagement
         {
             System.Console.Write("Enter product ID:");
             int ID = int.Parse(Console.ReadLine());
-
-            //find product with ID & remove
-            for (int i = 0; i < products.Count; i++)
+            Product p = FindByID(ID);
+            if (p == null) System.Console.WriteLine("Product not found!.Please try again");//p==null or( !p)
+            else
             {
-                if (ID == products[i].ID)
-                {
-                    products.Remove(products[i]);
-                    break;
-                }
+                products.Remove(p);
+                System.Console.WriteLine("Product Remove!");
+
             }
         }
+
+        public Product FindByID(int ID)
+        {
+
+            //find product with ID & remove
+
+            foreach (Product p in products)
+            {
+                if (p.ID == ID)
+                    return p;
+            }
+            return null;
+
+        }
+
+
+
         public void ShowProducts()
         {
             System.Console.WriteLine("All products in Iventory");
