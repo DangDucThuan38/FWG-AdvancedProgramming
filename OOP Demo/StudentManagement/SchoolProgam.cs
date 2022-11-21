@@ -8,18 +8,36 @@ namespace StudentManagement
 {
     public class SchoolProgam
     {
-            
-            
-        // attribute: school
-        private School  mySchool;
 
-        
+
+        // attribute: school
+        private School mySchool;
+
+
 
         // default constructor
         public SchoolProgam()
         {
-            mySchool= new School();
+            mySchool = new School();
         }
+
+        
+
+
+
+        public void Run()
+        {
+            bool running = true;
+            while (running)
+            {
+                PrintMenu();
+                int choice = GetChoice();
+                running = Process(choice);
+            }
+        }
+
+
+
 
         // PrintMenu
         private void PrintMenu()
@@ -34,40 +52,31 @@ namespace StudentManagement
         private int GetChoice()
         {
             System.Console.Write("Your choice: ");
-            int choice =int.Parse(Console.ReadLine());
+            int choice = int.Parse(Console.ReadLine());
             return choice;
         }
 
         // Process
         public bool Process(int choice)
         {
-            bool running = true;
+            bool running =true;
             switch(choice)
             {
-                case 1: mySchool.Enroll();
+                case 1:mySchool.Enroll();
                 break;
-                case 2:mySchool.DropOut();
+                case 2:mySchool.DropOupt();
                 break;
                 case 3:mySchool.ShowStudents();
                 break;
                 case 0: running = false;
                 break;
                 default:
-                System.Console.WriteLine("Invalid choice");
+                System.Console.WriteLine("Your choice is Invalid.Please choose");
                 break;
+                
             }
             return running;
+        }
 
-        }
-        public void Run()
-        {
-            bool running = true;
-            while(running)
-            {
-                PrintMenu();
-                int choice=GetChoice();
-                running=Process(choice);
-            }
-        }
     }
 }

@@ -12,7 +12,11 @@ namespace StudentManagement
         public string Name { get; set; }
         public int Age { get; set; }
         public double Grade { get; set; }
+
+
+
         // ID base count
+
         public static int count = 0;
         private int id;
         public int ID
@@ -21,14 +25,14 @@ namespace StudentManagement
         }
 
 
-
         // default constructor
         public Student()
         {
-            Name = "Student not Name";
-            Age = 0;
-            Grade = 0;
-            id = ++count;
+            Name="No Name";
+            Age=18;
+            Grade=5;
+            id=++count;
+
         }
         // parameter constructor
         public Student(string name, int age, double grade)
@@ -39,11 +43,13 @@ namespace StudentManagement
             id=++count;
         }
 
-        // show info
 
-        public void ShowInfor()
+        // show info
+        public void ShowInfo()
         {
-            Console.WriteLine("ID: " + id+"| Name: " + Name+"| Age: " +Age+"| Grade: " +Grade);
+            System.Console.WriteLine("ID"+ID+"|Name: " + Name+"|Age: " + Age+"|Grade: " +Grade);
         }
+
+
     }
 }
