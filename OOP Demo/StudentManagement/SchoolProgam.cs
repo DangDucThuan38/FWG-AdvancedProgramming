@@ -13,18 +13,11 @@ namespace StudentManagement
         // attribute: school
         private School mySchool;
 
-
-
         // default constructor
         public SchoolProgam()
         {
-            mySchool = new School();
+            mySchool = new School("Greenwich");
         }
-
-        
-
-
-
         public void Run()
         {
             bool running = true;
@@ -35,10 +28,6 @@ namespace StudentManagement
                 running = Process(choice);
             }
         }
-
-
-
-
         // PrintMenu
         private void PrintMenu()
         {

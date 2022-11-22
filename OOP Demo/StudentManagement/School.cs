@@ -9,17 +9,16 @@ namespace StudentManagement
     public class School
     {
         // attribute: List<Student> students
+        public string Name { get;set;}
        private List<Student> students;
 
-
-
         // default constructor
-        public School()
+        public School(string name)
         {
+            Name =name;
             students= new List<Student>();
         }
-        
-
+    
         // Enroll(): enroll student
        public void Enroll()
        {
@@ -66,10 +65,16 @@ namespace StudentManagement
         public void ShowStudents()
         {
             System.Console.WriteLine("List of students");
+            ShowInfor();
+            
+        }
+        public void ShowInfor()
+        {
             foreach (Student s in students)
             {
-                s.ShowInfo();
+                 System.Console.WriteLine("ID: "+s.ID+"|Name: " + s.Name+"|Age: " + s.Age+"|Grade: " +s.Grade +" |School: " + Name);
             }
+
         }
 
 

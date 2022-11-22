@@ -1,0 +1,15 @@
+F:\Advanced Programming\OOP Avd\ProductManagement\bin\Debug\net6.0\ProductManagement.exe
+F:\Advanced Programming\OOP Avd\ProductManagement\bin\Debug\net6.0\ProductManagement.deps.json
+F:\Advanced Programming\OOP Avd\ProductManagement\bin\Debug\net6.0\ProductManagement.runtimeconfig.json
+F:\Advanced Programming\OOP Avd\ProductManagement\bin\Debug\net6.0\ProductManagement.dll
+F:\Advanced Programming\OOP Avd\ProductManagement\bin\Debug\net6.0\ProductManagement.pdb
+F:\Advanced Programming\OOP Avd\ProductManagement\obj\Debug\net6.0\ProductManagement.csproj.AssemblyReference.cache
+F:\Advanced Programming\OOP Avd\ProductManagement\obj\Debug\net6.0\ProductManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\OOP Avd\ProductManagement\obj\Debug\net6.0\ProductManagement.AssemblyInfoInputs.cache
+F:\Advanced Programming\OOP Avd\ProductManagement\obj\Debug\net6.0\ProductManagement.AssemblyInfo.cs
+F:\Advanced Programming\OOP Avd\ProductManagement\obj\Debug\net6.0\ProductManagement.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\OOP Avd\ProductManagement\obj\Debug\net6.0\ProductManagement.dll
+F:\Advanced Programming\OOP Avd\ProductManagement\obj\Debug\net6.0\refint\ProductManagement.dll
+F:\Advanced Programming\OOP Avd\ProductManagement\obj\Debug\net6.0\ProductManagement.pdb
+F:\Advanced Programming\OOP Avd\ProductManagement\obj\Debug\net6.0\ProductManagement.genruntimeconfig.cache
+F:\Advanced Programming\OOP Avd\ProductManagement\obj\Debug\net6.0\ref\ProductManagement.dll

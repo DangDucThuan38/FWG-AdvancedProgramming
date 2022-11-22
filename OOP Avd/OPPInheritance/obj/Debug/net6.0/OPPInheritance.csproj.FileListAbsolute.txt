@@ -1,0 +1,15 @@
+F:\Advanced Programming\OOP Avd\OPPInheritance\obj\Debug\net6.0\OPPInheritance.csproj.AssemblyReference.cache
+F:\Advanced Programming\OOP Avd\OPPInheritance\obj\Debug\net6.0\OPPInheritance.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\OOP Avd\OPPInheritance\obj\Debug\net6.0\OPPInheritance.AssemblyInfoInputs.cache
+F:\Advanced Programming\OOP Avd\OPPInheritance\obj\Debug\net6.0\OPPInheritance.AssemblyInfo.cs
+F:\Advanced Programming\OOP Avd\OPPInheritance\obj\Debug\net6.0\OPPInheritance.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\OOP Avd\OPPInheritance\bin\Debug\net6.0\OPPInheritance.exe
+F:\Advanced Programming\OOP Avd\OPPInheritance\bin\Debug\net6.0\OPPInheritance.deps.json
+F:\Advanced Programming\OOP Avd\OPPInheritance\bin\Debug\net6.0\OPPInheritance.runtimeconfig.json
+F:\Advanced Programming\OOP Avd\OPPInheritance\bin\Debug\net6.0\OPPInheritance.dll
+F:\Advanced Programming\OOP Avd\OPPInheritance\bin\Debug\net6.0\OPPInheritance.pdb
+F:\Advanced Programming\OOP Avd\OPPInheritance\obj\Debug\net6.0\OPPInheritance.dll
+F:\Advanced Programming\OOP Avd\OPPInheritance\obj\Debug\net6.0\refint\OPPInheritance.dll
+F:\Advanced Programming\OOP Avd\OPPInheritance\obj\Debug\net6.0\OPPInheritance.pdb
+F:\Advanced Programming\OOP Avd\OPPInheritance\obj\Debug\net6.0\OPPInheritance.genruntimeconfig.cache
+F:\Advanced Programming\OOP Avd\OPPInheritance\obj\Debug\net6.0\ref\OPPInheritance.dll

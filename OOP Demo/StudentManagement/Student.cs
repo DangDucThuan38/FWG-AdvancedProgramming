@@ -45,10 +45,10 @@ namespace StudentManagement
 
 
         // show info
-        public void ShowInfo()
-        {
-            System.Console.WriteLine("ID"+ID+"|Name: " + Name+"|Age: " + Age+"|Grade: " +Grade);
-        }
+        //public void ShowInfo()
+        //{
+        //    System.Console.WriteLine("ID: "+ID+"|Name: " + Name+"|Age: " + Age+"|Grade: " +Grade);
+        //}
 
 
     }
