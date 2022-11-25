@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Advanced Programming\\OOP Avd\\ProductManagement\\ProductManagement.csproj",
+      "projectUniqueName": "F:\\Advanced Programming\\OOP Advanced\\ProductManagement\\ProductManagement.csproj",
       "projectName": "ProductManagement",
-      "projectPath": "F:\\Advanced Programming\\OOP Avd\\ProductManagement\\ProductManagement.csproj",
+      "projectPath": "F:\\Advanced Programming\\OOP Advanced\\ProductManagement\\ProductManagement.csproj",
       "packagesPath": "C:\\Users\\dangd\\.nuget\\packages\\",
-      "outputPath": "F:\\Advanced Programming\\OOP Avd\\ProductManagement\\obj\\",
+      "outputPath": "F:\\Advanced Programming\\OOP Advanced\\ProductManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dangd\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -27,7 +27,7 @@ namespace ProductManagement
             Name=name;
             Price=price;
         }
-        public void ShowInfor()
+        public virtual void ShowInfor()
         {
             System.Console.WriteLine("Name: " + name + "|| Price: " + price+"$");
         }

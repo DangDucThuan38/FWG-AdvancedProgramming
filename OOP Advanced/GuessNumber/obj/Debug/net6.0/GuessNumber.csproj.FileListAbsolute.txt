@@ -1,0 +1,15 @@
+F:\Advanced Programming\OOP Advanced\GuessNumber\obj\Debug\net6.0\GuessNumber.csproj.AssemblyReference.cache
+F:\Advanced Programming\OOP Advanced\GuessNumber\obj\Debug\net6.0\GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\OOP Advanced\GuessNumber\obj\Debug\net6.0\GuessNumber.AssemblyInfoInputs.cache
+F:\Advanced Programming\OOP Advanced\GuessNumber\obj\Debug\net6.0\GuessNumber.AssemblyInfo.cs
+F:\Advanced Programming\OOP Advanced\GuessNumber\obj\Debug\net6.0\GuessNumber.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\OOP Advanced\GuessNumber\bin\Debug\net6.0\GuessNumber.exe
+F:\Advanced Programming\OOP Advanced\GuessNumber\bin\Debug\net6.0\GuessNumber.deps.json
+F:\Advanced Programming\OOP Advanced\GuessNumber\bin\Debug\net6.0\GuessNumber.runtimeconfig.json
+F:\Advanced Programming\OOP Advanced\GuessNumber\bin\Debug\net6.0\GuessNumber.dll
+F:\Advanced Programming\OOP Advanced\GuessNumber\bin\Debug\net6.0\GuessNumber.pdb
+F:\Advanced Programming\OOP Advanced\GuessNumber\obj\Debug\net6.0\GuessNumber.dll
+F:\Advanced Programming\OOP Advanced\GuessNumber\obj\Debug\net6.0\refint\GuessNumber.dll
+F:\Advanced Programming\OOP Advanced\GuessNumber\obj\Debug\net6.0\GuessNumber.pdb
+F:\Advanced Programming\OOP Advanced\GuessNumber\obj\Debug\net6.0\GuessNumber.genruntimeconfig.cache
+F:\Advanced Programming\OOP Advanced\GuessNumber\obj\Debug\net6.0\ref\GuessNumber.dll

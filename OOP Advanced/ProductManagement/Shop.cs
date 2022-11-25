@@ -8,12 +8,10 @@ namespace ProductManagement
     public class Shop
     {
         private List<Product> products;
-        private List<SaleProduct> saleProducts;
 
         public Shop()
         {
             products = new List<Product>();
-            saleProducts = new List<SaleProduct>();
         }
 
         public void PrintMenu()
@@ -44,7 +42,7 @@ namespace ProductManagement
                 System.Console.Write("Enter  % SaleProduct:");
                 int sale = int.Parse(Console.ReadLine());
                 SaleProduct s = new SaleProduct(p.Name, p.Price, sale / 100.0);
-                saleProducts.Add(s);
+                products.Add(s);
             }
 
         }
@@ -64,15 +62,6 @@ namespace ProductManagement
             System.Console.Write("Enter Name Product:");
             string name = System.Console.ReadLine();
 
-            foreach (SaleProduct sp in saleProducts)
-            {
-                if(sp.Name == name)
-                {
-                    sp.ShowInfor();
-                    System.Console.WriteLine("Product " + sp.Name + "sold!");
-                    return;
-                }
-            }
             foreach (Product p in products)
             {
                   if(p.Name == name)
