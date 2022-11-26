@@ -24,6 +24,7 @@ namespace OPPInheritance
 
         public Person(string name,int age)
         {
+            
             Name=name;
             Age=age;
             System.Console.WriteLine("Parameters contructor of person");
