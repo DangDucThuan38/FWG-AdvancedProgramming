@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using BTVN;
+using System;
+
+ShapeProgram s1= new ShapeProgram();
+s1.Run();

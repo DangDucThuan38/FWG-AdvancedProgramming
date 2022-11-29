@@ -1,0 +1,15 @@
+F:\Advanced Programming\OOP Advanced\BTVN\obj\Debug\net6.0\BTVN.csproj.AssemblyReference.cache
+F:\Advanced Programming\OOP Advanced\BTVN\obj\Debug\net6.0\BTVN.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\OOP Advanced\BTVN\obj\Debug\net6.0\BTVN.AssemblyInfoInputs.cache
+F:\Advanced Programming\OOP Advanced\BTVN\obj\Debug\net6.0\BTVN.AssemblyInfo.cs
+F:\Advanced Programming\OOP Advanced\BTVN\obj\Debug\net6.0\BTVN.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\OOP Advanced\BTVN\bin\Debug\net6.0\BTVN.exe
+F:\Advanced Programming\OOP Advanced\BTVN\bin\Debug\net6.0\BTVN.deps.json
+F:\Advanced Programming\OOP Advanced\BTVN\bin\Debug\net6.0\BTVN.runtimeconfig.json
+F:\Advanced Programming\OOP Advanced\BTVN\bin\Debug\net6.0\BTVN.dll
+F:\Advanced Programming\OOP Advanced\BTVN\bin\Debug\net6.0\BTVN.pdb
+F:\Advanced Programming\OOP Advanced\BTVN\obj\Debug\net6.0\BTVN.dll
+F:\Advanced Programming\OOP Advanced\BTVN\obj\Debug\net6.0\refint\BTVN.dll
+F:\Advanced Programming\OOP Advanced\BTVN\obj\Debug\net6.0\BTVN.pdb
+F:\Advanced Programming\OOP Advanced\BTVN\obj\Debug\net6.0\BTVN.genruntimeconfig.cache
+F:\Advanced Programming\OOP Advanced\BTVN\obj\Debug\net6.0\ref\BTVN.dll

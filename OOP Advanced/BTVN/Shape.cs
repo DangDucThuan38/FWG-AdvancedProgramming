@@ -25,9 +25,10 @@ namespace BTVN
         public abstract double GetArea();
         public abstract double GetPerimeter();
 
-        public void ShowInfor()
+        public virtual void ShowInfor()
         {
             System.Console.WriteLine("Name:"+Name);
         }
+
     }
 }
