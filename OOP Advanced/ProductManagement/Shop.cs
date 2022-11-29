@@ -13,7 +13,6 @@ namespace ProductManagement
         {
             products = new List<Product>();
         }
-
         public void PrintMenu()
         {
             System.Console.WriteLine("1. Add new Product");

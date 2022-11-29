@@ -1,0 +1,15 @@
+F:\Advanced Programming\OOP Advanced\MoiveManagement\obj\Debug\net6.0\MoiveManagement.csproj.AssemblyReference.cache
+F:\Advanced Programming\OOP Advanced\MoiveManagement\obj\Debug\net6.0\MoiveManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\OOP Advanced\MoiveManagement\obj\Debug\net6.0\MoiveManagement.AssemblyInfoInputs.cache
+F:\Advanced Programming\OOP Advanced\MoiveManagement\obj\Debug\net6.0\MoiveManagement.AssemblyInfo.cs
+F:\Advanced Programming\OOP Advanced\MoiveManagement\obj\Debug\net6.0\MoiveManagement.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\OOP Advanced\MoiveManagement\bin\Debug\net6.0\MoiveManagement.exe
+F:\Advanced Programming\OOP Advanced\MoiveManagement\bin\Debug\net6.0\MoiveManagement.deps.json
+F:\Advanced Programming\OOP Advanced\MoiveManagement\bin\Debug\net6.0\MoiveManagement.runtimeconfig.json
+F:\Advanced Programming\OOP Advanced\MoiveManagement\bin\Debug\net6.0\MoiveManagement.dll
+F:\Advanced Programming\OOP Advanced\MoiveManagement\bin\Debug\net6.0\MoiveManagement.pdb
+F:\Advanced Programming\OOP Advanced\MoiveManagement\obj\Debug\net6.0\MoiveManagement.dll
+F:\Advanced Programming\OOP Advanced\MoiveManagement\obj\Debug\net6.0\refint\MoiveManagement.dll
+F:\Advanced Programming\OOP Advanced\MoiveManagement\obj\Debug\net6.0\MoiveManagement.pdb
+F:\Advanced Programming\OOP Advanced\MoiveManagement\obj\Debug\net6.0\MoiveManagement.genruntimeconfig.cache
+F:\Advanced Programming\OOP Advanced\MoiveManagement\obj\Debug\net6.0\ref\MoiveManagement.dll
