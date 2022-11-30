@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Advanced Programming\\OOP Advanced\\BTVN\\BTVN.csproj",
+      "projectUniqueName": "F:\\Advanced Programming\\OOP Advanced\\ShapeManagement\\BTVN.csproj",
       "projectName": "BTVN",
-      "projectPath": "F:\\Advanced Programming\\OOP Advanced\\BTVN\\BTVN.csproj",
+      "projectPath": "F:\\Advanced Programming\\OOP Advanced\\ShapeManagement\\BTVN.csproj",
       "packagesPath": "C:\\Users\\dangd\\.nuget\\packages\\",
-      "outputPath": "F:\\Advanced Programming\\OOP Advanced\\BTVN\\obj\\",
+      "outputPath": "F:\\Advanced Programming\\OOP Advanced\\ShapeManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dangd\\AppData\\Roaming\\NuGet\\NuGet.Config",
