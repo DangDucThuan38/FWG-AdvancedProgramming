@@ -23,12 +23,10 @@ namespace DemoShape
         }
         public abstract double GetArea();
         public abstract double GetPermeter();
-
         public virtual void ShowInfor()
         {
             System.Console.WriteLine("Name: "+ Name);
         }
         
-
     }
 }
