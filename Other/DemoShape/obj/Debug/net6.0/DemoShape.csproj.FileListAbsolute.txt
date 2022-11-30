@@ -1,0 +1,15 @@
+F:\Advanced Programming\Other\DemoShape\bin\Debug\net6.0\DemoShape.exe
+F:\Advanced Programming\Other\DemoShape\bin\Debug\net6.0\DemoShape.deps.json
+F:\Advanced Programming\Other\DemoShape\bin\Debug\net6.0\DemoShape.runtimeconfig.json
+F:\Advanced Programming\Other\DemoShape\bin\Debug\net6.0\DemoShape.dll
+F:\Advanced Programming\Other\DemoShape\bin\Debug\net6.0\DemoShape.pdb
+F:\Advanced Programming\Other\DemoShape\obj\Debug\net6.0\DemoShape.csproj.AssemblyReference.cache
+F:\Advanced Programming\Other\DemoShape\obj\Debug\net6.0\DemoShape.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\Other\DemoShape\obj\Debug\net6.0\DemoShape.AssemblyInfoInputs.cache
+F:\Advanced Programming\Other\DemoShape\obj\Debug\net6.0\DemoShape.AssemblyInfo.cs
+F:\Advanced Programming\Other\DemoShape\obj\Debug\net6.0\DemoShape.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\Other\DemoShape\obj\Debug\net6.0\DemoShape.dll
+F:\Advanced Programming\Other\DemoShape\obj\Debug\net6.0\refint\DemoShape.dll
+F:\Advanced Programming\Other\DemoShape\obj\Debug\net6.0\DemoShape.pdb
+F:\Advanced Programming\Other\DemoShape\obj\Debug\net6.0\DemoShape.genruntimeconfig.cache
+F:\Advanced Programming\Other\DemoShape\obj\Debug\net6.0\ref\DemoShape.dll
