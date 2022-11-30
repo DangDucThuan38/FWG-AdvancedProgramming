@@ -45,7 +45,6 @@ namespace BTVN
             double radius=double.Parse(Console.ReadLine());
             shapes.Add(new Circle(name,radius));
         }
-
         private void AddRectangle()
         {
             System.Console.Write("Enter Name: ");

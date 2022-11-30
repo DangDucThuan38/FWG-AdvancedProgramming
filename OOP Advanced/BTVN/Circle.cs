@@ -16,7 +16,7 @@ namespace BTVN
         }
         public Circle()
         {
-            radius=1;
+            radius=2;
         }
         public Circle(string name,double radius ):base(name)
         {

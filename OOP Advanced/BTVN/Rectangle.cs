@@ -21,8 +21,8 @@ namespace BTVN
         }
         public Rectangle()
         {
-            height=1;
-            width=1;
+            height=2;
+            width=3;
         }
         public Rectangle(string name,double width,double height):base(name)
         {
