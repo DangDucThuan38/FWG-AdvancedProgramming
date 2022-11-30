@@ -36,7 +36,7 @@ namespace ShapeManagement
         }
         public override double GetPerimeter()
         {
-            return (width+height)/2;
+            return (width+height)*2;
         }
 
          public override void ShowInfor()

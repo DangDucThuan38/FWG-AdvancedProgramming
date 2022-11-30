@@ -15,11 +15,13 @@ namespace ShapeManagement
         }
         public Square()
         {
-            width=height=side=1.0;
+           // width=height=side=1.0;
+           side=1;
         }
         public Square(string name,double side):base(name,side,side)
         {
-            side=width=height;
+           // side=width=height;
+           Side=side;
         }
     }
 }
