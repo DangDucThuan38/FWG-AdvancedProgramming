@@ -1,0 +1,15 @@
+F:\Advanced Programming\OOP Advanced\DemoException02\obj\Debug\net6.0\DemoException02.csproj.AssemblyReference.cache
+F:\Advanced Programming\OOP Advanced\DemoException02\obj\Debug\net6.0\DemoException02.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\OOP Advanced\DemoException02\obj\Debug\net6.0\DemoException02.AssemblyInfoInputs.cache
+F:\Advanced Programming\OOP Advanced\DemoException02\obj\Debug\net6.0\DemoException02.AssemblyInfo.cs
+F:\Advanced Programming\OOP Advanced\DemoException02\obj\Debug\net6.0\DemoException02.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\OOP Advanced\DemoException02\bin\Debug\net6.0\DemoException02.exe
+F:\Advanced Programming\OOP Advanced\DemoException02\bin\Debug\net6.0\DemoException02.deps.json
+F:\Advanced Programming\OOP Advanced\DemoException02\bin\Debug\net6.0\DemoException02.runtimeconfig.json
+F:\Advanced Programming\OOP Advanced\DemoException02\bin\Debug\net6.0\DemoException02.dll
+F:\Advanced Programming\OOP Advanced\DemoException02\bin\Debug\net6.0\DemoException02.pdb
+F:\Advanced Programming\OOP Advanced\DemoException02\obj\Debug\net6.0\DemoException02.dll
+F:\Advanced Programming\OOP Advanced\DemoException02\obj\Debug\net6.0\refint\DemoException02.dll
+F:\Advanced Programming\OOP Advanced\DemoException02\obj\Debug\net6.0\DemoException02.pdb
+F:\Advanced Programming\OOP Advanced\DemoException02\obj\Debug\net6.0\DemoException02.genruntimeconfig.cache
+F:\Advanced Programming\OOP Advanced\DemoException02\obj\Debug\net6.0\ref\DemoException02.dll
