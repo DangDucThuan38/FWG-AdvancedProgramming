@@ -23,14 +23,12 @@ class Program
             }
             catch (FormatException)
             {
-
                 System.Console.WriteLine("Input Valid .Please try Again.!");
             }
 
         }
         return n;
     }
-
    public static double ReadDouble(string get)
    {
          bool invalid = true;
