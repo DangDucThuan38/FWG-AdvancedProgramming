@@ -5,11 +5,11 @@ class Program
     {
         int a = ReadInt("Enter a: ");
         int b = ReadInt("Enter b: ");
-        double e=ReadDouble("Enter e: ");
-        int c=a/b;
-        System.Console.WriteLine("Result: "+c);
+        double e = ReadDouble("Enter e: ");
+        int c = a / b;
+        System.Console.WriteLine("Result: " + c);
     }
-    public static int  ReadInt(string prompt)
+    public static int ReadInt(string prompt)
     {
         bool invalid = true;
         int n = 0;
@@ -24,14 +24,13 @@ class Program
             catch (FormatException)
             {
                 System.Console.WriteLine("Input Valid .Please try Again.!");
-            }
-
+            }   
         }
         return n;
     }
-   public static double ReadDouble(string get)
-   {
-         bool invalid = true;
+    public static double ReadDouble(string get)
+    {
+        bool invalid = true;
         double n = 0;
         while (invalid)
         {
@@ -46,10 +45,9 @@ class Program
 
                 System.Console.WriteLine("Input Valid .Please try Again.!");
             }
-
         }
         return n;
 
-   }
+    }
 }
 
