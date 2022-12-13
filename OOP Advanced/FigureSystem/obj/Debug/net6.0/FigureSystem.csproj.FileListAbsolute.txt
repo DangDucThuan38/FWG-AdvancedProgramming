@@ -1,0 +1,15 @@
+F:\Advanced Programming\OOP Advanced\FigureSystem\obj\Debug\net6.0\FigureSystem.csproj.AssemblyReference.cache
+F:\Advanced Programming\OOP Advanced\FigureSystem\obj\Debug\net6.0\FigureSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\OOP Advanced\FigureSystem\obj\Debug\net6.0\FigureSystem.AssemblyInfoInputs.cache
+F:\Advanced Programming\OOP Advanced\FigureSystem\obj\Debug\net6.0\FigureSystem.AssemblyInfo.cs
+F:\Advanced Programming\OOP Advanced\FigureSystem\obj\Debug\net6.0\FigureSystem.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\OOP Advanced\FigureSystem\bin\Debug\net6.0\FigureSystem.exe
+F:\Advanced Programming\OOP Advanced\FigureSystem\bin\Debug\net6.0\FigureSystem.deps.json
+F:\Advanced Programming\OOP Advanced\FigureSystem\bin\Debug\net6.0\FigureSystem.runtimeconfig.json
+F:\Advanced Programming\OOP Advanced\FigureSystem\bin\Debug\net6.0\FigureSystem.dll
+F:\Advanced Programming\OOP Advanced\FigureSystem\bin\Debug\net6.0\FigureSystem.pdb
+F:\Advanced Programming\OOP Advanced\FigureSystem\obj\Debug\net6.0\FigureSystem.dll
+F:\Advanced Programming\OOP Advanced\FigureSystem\obj\Debug\net6.0\refint\FigureSystem.dll
+F:\Advanced Programming\OOP Advanced\FigureSystem\obj\Debug\net6.0\FigureSystem.pdb
+F:\Advanced Programming\OOP Advanced\FigureSystem\obj\Debug\net6.0\FigureSystem.genruntimeconfig.cache
+F:\Advanced Programming\OOP Advanced\FigureSystem\obj\Debug\net6.0\ref\FigureSystem.dll
