@@ -1,0 +1,15 @@
+F:\Advanced Programming\Design Pattern\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+F:\Advanced Programming\Design Pattern\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\Design Pattern\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+F:\Advanced Programming\Design Pattern\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+F:\Advanced Programming\Design Pattern\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\Design Pattern\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
+F:\Advanced Programming\Design Pattern\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.deps.json
+F:\Advanced Programming\Design Pattern\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.runtimeconfig.json
+F:\Advanced Programming\Design Pattern\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.dll
+F:\Advanced Programming\Design Pattern\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.pdb
+F:\Advanced Programming\Design Pattern\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.dll
+F:\Advanced Programming\Design Pattern\EmployeeManagement\obj\Debug\net6.0\refint\EmployeeManagement.dll
+F:\Advanced Programming\Design Pattern\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.pdb
+F:\Advanced Programming\Design Pattern\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
+F:\Advanced Programming\Design Pattern\EmployeeManagement\obj\Debug\net6.0\ref\EmployeeManagement.dll
