@@ -16,7 +16,7 @@ List<Employee> employees= hr.Recruit(candidates);
 System.Console.WriteLine("Conratulation ");
 foreach (Employee e in employees)
 {
-    System.Console.WriteLine(e);
+    System.Console.WriteLine(e.ToString());
     
 }
 
