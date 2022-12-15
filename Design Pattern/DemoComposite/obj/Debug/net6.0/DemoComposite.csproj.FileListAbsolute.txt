@@ -1,0 +1,15 @@
+F:\Advanced Programming\Design Pattern\DemoComposite\obj\Debug\net6.0\DemoComposite.csproj.AssemblyReference.cache
+F:\Advanced Programming\Design Pattern\DemoComposite\obj\Debug\net6.0\DemoComposite.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\Design Pattern\DemoComposite\obj\Debug\net6.0\DemoComposite.AssemblyInfoInputs.cache
+F:\Advanced Programming\Design Pattern\DemoComposite\obj\Debug\net6.0\DemoComposite.AssemblyInfo.cs
+F:\Advanced Programming\Design Pattern\DemoComposite\obj\Debug\net6.0\DemoComposite.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\Design Pattern\DemoComposite\bin\Debug\net6.0\DemoComposite.exe
+F:\Advanced Programming\Design Pattern\DemoComposite\bin\Debug\net6.0\DemoComposite.deps.json
+F:\Advanced Programming\Design Pattern\DemoComposite\bin\Debug\net6.0\DemoComposite.runtimeconfig.json
+F:\Advanced Programming\Design Pattern\DemoComposite\bin\Debug\net6.0\DemoComposite.dll
+F:\Advanced Programming\Design Pattern\DemoComposite\bin\Debug\net6.0\DemoComposite.pdb
+F:\Advanced Programming\Design Pattern\DemoComposite\obj\Debug\net6.0\DemoComposite.dll
+F:\Advanced Programming\Design Pattern\DemoComposite\obj\Debug\net6.0\refint\DemoComposite.dll
+F:\Advanced Programming\Design Pattern\DemoComposite\obj\Debug\net6.0\DemoComposite.pdb
+F:\Advanced Programming\Design Pattern\DemoComposite\obj\Debug\net6.0\DemoComposite.genruntimeconfig.cache
+F:\Advanced Programming\Design Pattern\DemoComposite\obj\Debug\net6.0\ref\DemoComposite.dll
