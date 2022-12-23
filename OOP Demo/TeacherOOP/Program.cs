@@ -5,7 +5,7 @@ namespace OOP // Note: actual namespace depends on the project name.
 {
     class Program
     {
-        static void Main(string[] args)
+        public void Main(string[] args)
         {
             Teacher t= new Teacher();
             System.Console.Write("Enter name:");

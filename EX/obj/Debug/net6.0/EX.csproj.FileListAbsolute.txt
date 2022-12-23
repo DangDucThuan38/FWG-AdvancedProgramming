@@ -1,0 +1,15 @@
+F:\Advanced Programming\EX\bin\Debug\net6.0\EX.exe
+F:\Advanced Programming\EX\bin\Debug\net6.0\EX.deps.json
+F:\Advanced Programming\EX\bin\Debug\net6.0\EX.runtimeconfig.json
+F:\Advanced Programming\EX\bin\Debug\net6.0\EX.dll
+F:\Advanced Programming\EX\bin\Debug\net6.0\EX.pdb
+F:\Advanced Programming\EX\obj\Debug\net6.0\EX.csproj.AssemblyReference.cache
+F:\Advanced Programming\EX\obj\Debug\net6.0\EX.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\EX\obj\Debug\net6.0\EX.AssemblyInfoInputs.cache
+F:\Advanced Programming\EX\obj\Debug\net6.0\EX.AssemblyInfo.cs
+F:\Advanced Programming\EX\obj\Debug\net6.0\EX.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\EX\obj\Debug\net6.0\EX.dll
+F:\Advanced Programming\EX\obj\Debug\net6.0\refint\EX.dll
+F:\Advanced Programming\EX\obj\Debug\net6.0\EX.pdb
+F:\Advanced Programming\EX\obj\Debug\net6.0\EX.genruntimeconfig.cache
+F:\Advanced Programming\EX\obj\Debug\net6.0\ref\EX.dll

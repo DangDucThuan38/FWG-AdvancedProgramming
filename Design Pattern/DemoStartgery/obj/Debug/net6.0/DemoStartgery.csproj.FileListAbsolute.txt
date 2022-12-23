@@ -1,0 +1,15 @@
+F:\Advanced Programming\Design Pattern\DemoStartgery\obj\Debug\net6.0\DemoStartgery.csproj.AssemblyReference.cache
+F:\Advanced Programming\Design Pattern\DemoStartgery\obj\Debug\net6.0\DemoStartgery.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\Design Pattern\DemoStartgery\obj\Debug\net6.0\DemoStartgery.AssemblyInfoInputs.cache
+F:\Advanced Programming\Design Pattern\DemoStartgery\obj\Debug\net6.0\DemoStartgery.AssemblyInfo.cs
+F:\Advanced Programming\Design Pattern\DemoStartgery\obj\Debug\net6.0\DemoStartgery.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\Design Pattern\DemoStartgery\bin\Debug\net6.0\DemoStartgery.exe
+F:\Advanced Programming\Design Pattern\DemoStartgery\bin\Debug\net6.0\DemoStartgery.deps.json
+F:\Advanced Programming\Design Pattern\DemoStartgery\bin\Debug\net6.0\DemoStartgery.runtimeconfig.json
+F:\Advanced Programming\Design Pattern\DemoStartgery\bin\Debug\net6.0\DemoStartgery.dll
+F:\Advanced Programming\Design Pattern\DemoStartgery\bin\Debug\net6.0\DemoStartgery.pdb
+F:\Advanced Programming\Design Pattern\DemoStartgery\obj\Debug\net6.0\DemoStartgery.dll
+F:\Advanced Programming\Design Pattern\DemoStartgery\obj\Debug\net6.0\refint\DemoStartgery.dll
+F:\Advanced Programming\Design Pattern\DemoStartgery\obj\Debug\net6.0\DemoStartgery.pdb
+F:\Advanced Programming\Design Pattern\DemoStartgery\obj\Debug\net6.0\DemoStartgery.genruntimeconfig.cache
+F:\Advanced Programming\Design Pattern\DemoStartgery\obj\Debug\net6.0\ref\DemoStartgery.dll
