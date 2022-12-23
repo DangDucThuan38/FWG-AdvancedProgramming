@@ -8,7 +8,6 @@ namespace EX
     public interface IPaymentable
     {
         public void Pay(double amount);
-        public void Add();
     }
 
 }

@@ -53,6 +53,7 @@ namespace EX
             }
 
         }
+        
         protected void ChoosePayment(int choice)
         {
             switch (choice)
@@ -88,10 +89,10 @@ namespace EX
             paymentable.Pay(amount);
         }
 
-        public void AddPayment(IPaymentable paymentable)
-        {
-            paymentable.Add();
-        }
+        //public void AddPayment(IPaymentable paymentable)
+        //{
+        //    paymentable.Add();
+        //}
         public void RemoveCar()
         {
             System.Console.WriteLine("PleaseEnter Name Product: ");
