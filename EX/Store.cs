@@ -13,7 +13,7 @@ namespace EX
         public Store()
         {
             cars = new List<Car>();
-           // this.paymentable = paymentable;
+            // this.paymentable = paymentable;
         }
         protected override void PrintMenu()
         {
@@ -26,7 +26,7 @@ namespace EX
         }
         protected override void Process(int choice)
         {
-           
+
             switch (choice)
             {
                 case 1:
@@ -57,15 +57,15 @@ namespace EX
         {
             switch (choice)
             {
-                case 1: 
-                
-                 break;
+                case 1:
+
+                    break;
                 case 2:
-                
-                break;
-                case 3: 
-                
-                break;
+
+                    break;
+                case 3:
+
+                    break;
                 case 0: System.Console.WriteLine("Exit Payment"); break;
                 default: System.Console.WriteLine("Invalid choice.Please Try Agian!"); break;
             }
@@ -94,7 +94,7 @@ namespace EX
         }
         public void RemoveCar()
         {
-            System.Console.WriteLine("Enter Name Product: ");
+            System.Console.WriteLine("PleaseEnter Name Product: ");
             string name = Console.ReadLine();
             foreach (Car car in cars)
             {
@@ -125,7 +125,7 @@ namespace EX
             double price = double.Parse(Console.ReadLine());
             System.Console.Write("Enter Power:");
             string power = Console.ReadLine();
-            cars.Add(new Car(codeProduct,name, description, made, power, price));
+            cars.Add(new Car(codeProduct, name, description, made, power, price));
 
         }
 
@@ -141,7 +141,7 @@ namespace EX
 
         public void Show()
         {
-          
+
             foreach (Car car in cars)
             {
                 car.Show();

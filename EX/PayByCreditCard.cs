@@ -7,10 +7,49 @@ namespace EX
 {
     public class PayByCreditCard
     {
-          public string Name { get; set; }
-        public string Date { get; set; }
-        public string Cvv { get; set; }
-        public string CardNumber { get; set; }
+        public string name;
+        public string Name
+        {
+            get { return name; }
+            set
+            {
+                if (value == "") name = "Default Name";
+                else name = value;
+            }
+
+        }
+        private string date;
+        public string Date
+        {
+            get { return date; }
+            set
+            {
+                if (value == "")
+                    System.Console.WriteLine("Date invalid");
+                else date = value;
+            }
+        }
+        private string cvv;
+        public string Cvv
+        {
+            get { return cvv; }
+            set
+            {
+                if (value == "") cvv = "Default Cvv";
+                else cvv = value;
+            }
+        }
+        private string cardNumber;
+        public string CardNumber
+        {
+            get { return cardNumber; }
+            set
+            {
+                if (value == "") cardNumber = "Default Card Number";
+                else cardNumber = value;
+            }
+
+        }
 
         public PayByCreditCard(string name, string date, string cvv, string cardNumber)
         {
@@ -35,6 +74,16 @@ namespace EX
         }
         public void Add()
         {
+            System.Console.Write("Enter Name CreditCard: ");
+            string name = System.Console.ReadLine();
+            System.Console.Write("Enter Card Number: ");
+            string cardNumber = System.Console.ReadLine();
+            System.Console.Write("Enter Date of Card: ");
+            string date = System.Console.ReadLine();
+            System.Console.Write("Enter verification code: ");
+            string cvv = System.Console.ReadLine();
+
+            PayByCreditCard pay = new PayByCreditCard(name, date, cvv, cardNumber);
 
         }
     }

@@ -5,15 +5,56 @@ using System.Threading.Tasks;
 
 namespace EX
 {
-    public class PayByCash:IPaymentable
+    public class PayByCash : IPaymentable
     {
-        public string Name { get; set; }
-        public string Age { get; set; }
-        public string Address { get; set; }
+        private string name;
+        public string Name
+        {
+            get { return name; }
+            set
+            {
+                if (value == "") name = "Customer Default";
+                else name = value;
+            }
 
-        public string Phone { get; set; }
+        }
+        private int age;
+        public int Age
+        {
+            get { return age; }
+            set
+            {
+                if (value < 0 || value > 100) age = 18;
+                else age = value;
+            }
 
-        public PayByCash(string name, string age, string address, string phone)
+        }
+        private string address;
+        public string Address
+        {
+            get { return address; }
+            set
+            {
+                if (value == "") address = "HN";
+                else address = value;
+            }
+
+        }
+        private string phone;
+
+        public string Phone
+        {
+            get { return phone; }
+            set
+            {
+                if (value == "") phone = "0988899xxx";
+                else phone = value;
+            }
+
+
+        }
+
+        public PayByCash(string name, int age, string address, string phone)
         {
             Name = name;
             Age = age;

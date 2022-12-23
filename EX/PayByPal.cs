@@ -7,8 +7,28 @@ namespace EX
 {
     public class PayByPal
     {
-        public string Email { get; set; }
-        public string Password { get; set; }
+        private string email;
+        public string Email
+        {
+            get { return email; }
+            set
+            {
+                if (value == "") email = "@fpt.edu.vn";
+                else email = value;
+            }
+
+        }
+        private string password;
+        public string Password
+        {
+            get { return password; }
+            set
+            {
+                if (value == "") password = "abxzvch";
+                else password = value;
+
+            }
+        }
 
         public PayByPal(string email, string pasword)
         {
@@ -32,9 +52,9 @@ namespace EX
         public void Add()
         {
             System.Console.Write("Enter Email: ");
-            string email= Console.ReadLine();
-            System.Console.Write("Password: " );
-            string password= Console.ReadLine();
+            string email = Console.ReadLine();
+            System.Console.Write("Password: ");
+            string password = Console.ReadLine();
             PayByPal ob = new PayByPal(email, password);
 
 
