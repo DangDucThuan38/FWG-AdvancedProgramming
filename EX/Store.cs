@@ -8,12 +8,9 @@ namespace EX
     public class Store : MenuProgram
     {
         private List<Car> cars;
-
-
         public Store()
         {
             cars = new List<Car>();
-            // this.paymentable = paymentable;
         }
         protected override void PrintMenu()
         {
@@ -53,24 +50,10 @@ namespace EX
             }
 
         }
-        
-        protected void ChoosePayment(int choice)
-        {
-            switch (choice)
-            {
-                case 1:
+        //----------------------------
 
-                    break;
-                case 2:
 
-                    break;
-                case 3:
-
-                    break;
-                case 0: System.Console.WriteLine("Exit Payment"); break;
-                default: System.Console.WriteLine("Invalid choice.Please Try Agian!"); break;
-            }
-        }
+        //Menu con khi nhấn chọn Phương thức thanh toán
         protected void PrintMenu2()
         {
             System.Console.WriteLine("Please Choose method Payment");
@@ -79,6 +62,42 @@ namespace EX
             System.Console.WriteLine("3. Payment in Credit Card");
             System.Console.WriteLine("0. Exit Payment");
         }
+
+        // Process của menu con
+
+        protected void ChoosePayment(int choice)
+        {
+            switch (choice)
+            {
+                case 1:// Thực hiện nhập thông tin và in ra đối với thanh toán bằng tiền mặt
+
+                    break;
+                case 2:// Thực hiện nhập tin của phương thức PayPal và in ra
+
+                    break;
+                case 3:// Thực hiện nhập thông tin của phương thức Credit card và in ra
+
+                    break;
+                case 0: System.Console.WriteLine("Exit Payment"); break;
+                default: System.Console.WriteLine("Invalid choice.Please Try Agian!"); break;
+            }
+        }
+
+   
+
+
+        // Hàm tính tổng tiền của sản phẩm
+        public double Total()
+        {
+            double sum = 0;
+            foreach (Car c in cars)
+            {
+                sum += c.Price;
+            }
+            return sum;
+        }
+
+        // Hàm thanh toán chuyền vào tổng số tiền và giảm giá tuy theo cách phương thức thanh toán
         public void pay(IPaymentable paymentable)
         {
             foreach (Car car in cars)
@@ -89,10 +108,8 @@ namespace EX
             paymentable.Pay(amount);
         }
 
-        //public void AddPayment(IPaymentable paymentable)
-        //{
-        //    paymentable.Add();
-        //}
+       
+       // Xóa Car bằng cách nhập tên car muốn xóa
         public void RemoveCar()
         {
             System.Console.WriteLine("PleaseEnter Name Product: ");
@@ -109,6 +126,7 @@ namespace EX
         }
 
 
+        // Thêm sản phẩm là car 
         public void AddCar()
         {
             System.Console.WriteLine("--- Please Enter Information of Car ---");
@@ -128,16 +146,6 @@ namespace EX
             string power = Console.ReadLine();
             cars.Add(new Car(codeProduct, name, description, made, power, price));
 
-        }
-
-        public double Total()
-        {
-            double sum = 0;
-            foreach (Car c in cars)
-            {
-                sum += c.Price;
-            }
-            return sum;
         }
 
         public void Show()
