@@ -1,0 +1,15 @@
+F:\Advanced Programming\Mixcar\MixicarStore\bin\Debug\net6.0\MixicarStore.exe
+F:\Advanced Programming\Mixcar\MixicarStore\bin\Debug\net6.0\MixicarStore.deps.json
+F:\Advanced Programming\Mixcar\MixicarStore\bin\Debug\net6.0\MixicarStore.runtimeconfig.json
+F:\Advanced Programming\Mixcar\MixicarStore\bin\Debug\net6.0\MixicarStore.dll
+F:\Advanced Programming\Mixcar\MixicarStore\bin\Debug\net6.0\MixicarStore.pdb
+F:\Advanced Programming\Mixcar\MixicarStore\obj\Debug\net6.0\MixicarStore.csproj.AssemblyReference.cache
+F:\Advanced Programming\Mixcar\MixicarStore\obj\Debug\net6.0\MixicarStore.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced Programming\Mixcar\MixicarStore\obj\Debug\net6.0\MixicarStore.AssemblyInfoInputs.cache
+F:\Advanced Programming\Mixcar\MixicarStore\obj\Debug\net6.0\MixicarStore.AssemblyInfo.cs
+F:\Advanced Programming\Mixcar\MixicarStore\obj\Debug\net6.0\MixicarStore.csproj.CoreCompileInputs.cache
+F:\Advanced Programming\Mixcar\MixicarStore\obj\Debug\net6.0\MixicarStore.dll
+F:\Advanced Programming\Mixcar\MixicarStore\obj\Debug\net6.0\refint\MixicarStore.dll
+F:\Advanced Programming\Mixcar\MixicarStore\obj\Debug\net6.0\MixicarStore.pdb
+F:\Advanced Programming\Mixcar\MixicarStore\obj\Debug\net6.0\MixicarStore.genruntimeconfig.cache
+F:\Advanced Programming\Mixcar\MixicarStore\obj\Debug\net6.0\ref\MixicarStore.dll
