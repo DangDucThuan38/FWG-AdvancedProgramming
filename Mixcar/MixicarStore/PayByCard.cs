@@ -7,20 +7,31 @@ namespace MixicarStore
 {
     public class PayByCard : IPaymentable
     {
-        private string name;
 
+        private string cardholder;
+        private string namecard;
         private string cardNumber;
-
         private string date;
-        private string verification;
+        private string cvv;
 
-        public string Name
+
+
+        public string Cardholder
         {
-            get { return name; }
+            get { return cardholder; }
             set
             {
-                if (value == "") name = "Default";
-                else name = value;
+                if (cardholder == "") cardholder = "Nguyen Van XXX";
+                else cardholder = value;
+            }
+        }
+        public string Namecard
+        {
+            get { return namecard; }
+            set
+            {
+                if (value == "") namecard = "Default";
+                else namecard = value;
             }
         }
         public string CardNumber
@@ -41,55 +52,43 @@ namespace MixicarStore
                 else date = value;
             }
         }
-        public string Verification
+        public string CVV
         {
-            get { return verification; }
+            get { return cvv; }
             set
             {
-                if (verification == "") verification = "xxx9";
-                else verification = value;
+                if (cvv == "") cvv = "xxx9";
+                else cvv = value;
             }
         }
 
-        public PayByCard(string name, string cardNumber, string date, string verification)
+        public PayByCard(string cardholder, string namecard, string cardNumber, string date, string cvv)
         {
-            Name = name;
+            Cardholder = cardholder;
+            Namecard = namecard;
             CardNumber = cardNumber;
             Date = date;
-            Verification = verification;
+            CVV = cvv;
         }
         public void Pay(double total)
         {
-            System.Console.WriteLine("You have successfully paid for your product with PayCreditCard payment method.");
-            System.Console.WriteLine("_____________Luxury Car Store____________");
-            System.Console.WriteLine("--------------Bill----------------");
-            System.Console.WriteLine("Name CreditCard: " + Name);
-            System.Console.WriteLine("Number CreditCard: " + CardNumber);
-            System.Console.WriteLine("Date: " + Date);
-            System.Console.WriteLine("Verfication: " + Verification);
-            System.Console.WriteLine("Total Money: " + total);
-            System.Console.WriteLine("|        PayMent: " + (total * (100 - 2) / 100) + "     |");
+            System.Console.WriteLine("You have successfully paid for your product with Credit Card payment method.");
+            System.Console.WriteLine(" _________________________________________");
+            System.Console.WriteLine("|************* MixiCar Store************|");
+            System.Console.WriteLine("|                                         |");
+            System.Console.WriteLine("|-----------------Bill-------------------|");
+            System.Console.WriteLine("|                                         |");
+            System.Console.WriteLine("|        Card Holder: " + Cardholder + "        |");
+            System.Console.WriteLine("|        Name Card: " + Namecard + "               |");
+            System.Console.WriteLine("|        Number Card: " + CardNumber + "|");
+            System.Console.WriteLine("|        Date Valid: " + Date + "|");
+            System.Console.WriteLine("|        CVV: " + CVV + "|");
+            System.Console.WriteLine("|        Total Money: " + total + "                 |");
+            System.Console.WriteLine("|        The money have to pay: " + (total * (100 - 2) / 100) + "     |");
+            System.Console.WriteLine(" __________________________________________");
 
         }
-        public void Add()
-        {
-            System.Console.Write("Enter Name CreditCard:  ");
-            string name = Console.ReadLine();
 
-            System.Console.Write("Enter Number Card: ");
-            string cardNumber = Console.ReadLine();
-
-            System.Console.Write("Enter Date: ");
-            string date = Console.ReadLine();
-
-            System.Console.Write("Enter Code Verification: ");
-            string verification = Console.ReadLine();
-
-            PayByCard card= new PayByCard(name,cardNumber,date,verification);
-
-
-
-        }
 
 
     }

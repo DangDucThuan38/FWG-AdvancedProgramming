@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ProjectTreeState projectID="EliIkKGAUFhwjQBZ" projectPath="F:\Advanced Programming\Diagram\Method.vpp">
+<ProjectTreeState projectID="LQPe2KGGAqAAahFI" projectPath="C:\Users\dangd\OneDrive\Ta\u0300i li\u00ea\u0323u\VPProjects\Design Pattern.vpp">
 	<TreeState name="ModelRepository" viewX="0" viewY="0">
 		<ExpandedPath>ModelRepository</ExpandedPath>
 	</TreeState>
-	<TreeState name="DiagramNavigator" viewX="0" viewY="0">
-		<ExpandedPath>DiagramNavigator</ExpandedPath>
-	</TreeState>
+	<TreeState name="DiagramNavigator" viewX="0" viewY="0"/>
 	<TreeState name="ClassBrowser" viewX="0" viewY="0"/>
 	<TreeState name="LogicalView" viewX="0" viewY="0"/>
 	<TreeState name="DiagramBacklog" viewX="0" viewY="0"/>

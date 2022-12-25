@@ -57,20 +57,8 @@ namespace MixicarStore
             System.Console.WriteLine("|        Password: " + Password + "               |");
             System.Console.WriteLine("|        Verification: " + Verification + "|");
             System.Console.WriteLine("|        Total Money: " + total + "                 |");
-            System.Console.WriteLine("|        PayMent: " + (total * (100 - 3) / 100) + "     |");
+            System.Console.WriteLine("|        The money have to pay: " + (total * (100 - 3) / 100) + "     |");
             System.Console.WriteLine(" __________________________________________");
-
-        }
-        public void Add()
-        {
-             System.Console.Write("Enter Account: ");
-             string account= Console.ReadLine();
-             System.Console.Write("Enter Password: ");
-             string password= Console.ReadLine();
-             System.Console.Write("Enter");
-             string verification= Console.ReadLine();
-
-             PayByEBanking banking= new PayByEBanking(account,password,verification);
         }
 
 

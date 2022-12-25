@@ -8,6 +8,10 @@ namespace MixicarStore
     public class PayByCash : IPaymentable
     {
         private string name;
+
+        private string address;
+        private int age;
+        private string phone;
         public string Name
         {
             get { return name; }
@@ -17,7 +21,6 @@ namespace MixicarStore
                 else name = value;
             }
         }
-        private string address;
         public string Address
         {
             get { return address; }
@@ -27,7 +30,7 @@ namespace MixicarStore
                 else address = value;
             }
         }
-        private int age;
+
         public int Age
         {
             get { return age; }
@@ -38,7 +41,7 @@ namespace MixicarStore
 
             }
         }
-        private string phone;
+
         public string Phone
         {
             get { return phone; }
@@ -48,45 +51,28 @@ namespace MixicarStore
                 else phone = value;
             }
         }
-        public PayByCash(string name, int age,string address,string phone)
+        public PayByCash(string name, int age, string address, string phone)
         {
-            Name= name;
-            Age=age;
-            Address=address;
-            Phone=phone;
+            Name = name;
+            Age = age;
+            Address = address;
+            Phone = phone;
         }
-        public void Pay(double total)
+        public void Pay(double amount)
         {
             System.Console.WriteLine("You have successfully paid for your product with Cash payment method.");
-            System.Console.WriteLine("_____________Mixi Car Store____________");
-            System.Console.WriteLine("--------------Cash payment invoice----------------");
-            System.Console.WriteLine("Name Customer: " + Name);
-            System.Console.WriteLine("Age: " + Age);
-            System.Console.WriteLine("Address: " + Address);
-            System.Console.WriteLine("Phone Number: " + Phone);
-            System.Console.WriteLine("Total Money: " + total);
-            System.Console.WriteLine("|        PayMent: " + (total * (100 + 2) / 100) + "     |");
-         
-
+            System.Console.WriteLine(" _________________________________________");
+            System.Console.WriteLine("|*************Mixi Car Store************|");
+            System.Console.WriteLine("|                                         |");
+            System.Console.WriteLine("|--------------Cash payment invoice------------|");
+            System.Console.WriteLine("|                                         |");
+            System.Console.WriteLine("|        Name Customer: " + Name + "        |");
+            System.Console.WriteLine("|        Age: " + Age + "               |");
+            System.Console.WriteLine("|        Address: " + Address + "|");
+            System.Console.WriteLine("|        Phone Number: " + Phone + "|");
+            System.Console.WriteLine("|        Total Money: " + amount + "                 |");
+            System.Console.WriteLine("|        The money have to pay: " + (amount * (100 + 2) / 100) + "     |");
+            System.Console.WriteLine(" __________________________________________");
         }
-
-        public  void Add()
-        {
-            System.Console.Write("Enter Name Customer:");
-            string name= Console.ReadLine();
-            System.Console.Write("Enter Age: ");
-            int age= int.Parse(Console.ReadLine());
-            System.Console.Write("Enter Address: ");
-            string address= Console.ReadLine();
-            System.Console.Write("Enter Phone Number: ");
-            string phone= Console.ReadLine();
-            
-            PayByCash cash= new PayByCash(name,age,address,phone);
-
-        }
-
-
-
-
     }
 }

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ProjectTreeState projectID="LQPe2KGGAqAAahFI" projectPath="F:\Advanced Programming\Diagram\Design Pattern demo.vpp">
-	<TreeState name="ModelRepository" viewX="0" viewY="0"/>
+	<TreeState name="ModelRepository" viewX="0" viewY="0">
+		<ExpandedPath>ModelRepository</ExpandedPath>
+	</TreeState>
 	<TreeState name="DiagramNavigator" viewX="0" viewY="0">
 		<ExpandedPath>DiagramNavigator</ExpandedPath>
 	</TreeState>

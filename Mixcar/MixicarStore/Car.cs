@@ -7,7 +7,7 @@ namespace MixicarStore
 {
     public class Car
     {
-        private string name;
+        protected string name;
 
         public string Name
         {
@@ -20,7 +20,7 @@ namespace MixicarStore
 
         }
 
-        private string description;
+        protected string description;
         public string Description
         {
             get { return description; }
@@ -31,7 +31,7 @@ namespace MixicarStore
             }
 
         }
-        private string codecar;
+        protected string codecar;
         public string CodeCar
         {
             get { return codecar; }
@@ -41,7 +41,7 @@ namespace MixicarStore
                 else codecar = value;
             }
         }
-        private string made;
+        protected string made;
         public string Made
         {
             get { return made; }
@@ -51,7 +51,7 @@ namespace MixicarStore
                 else made = value;
             }
         }
-        private string power;
+        protected string power;
         public string Power
         {
             get { return power; }
@@ -61,7 +61,7 @@ namespace MixicarStore
                 else power = value;
             }
         }
-        private string date;
+        protected string date;
 
         public string Date
         {
@@ -72,7 +72,7 @@ namespace MixicarStore
                 else date = value;
             }
         }
-        private double price;
+        protected double price;
         public double Price
         {
             get { return price; }
@@ -96,8 +96,11 @@ namespace MixicarStore
 
         public void Show()
         {
+            
             System.Console.WriteLine("Code Car: " + CodeCar + ", Name Car: " + Name + ", Made In: "
             + Made + " ,Power: " + Power + ", Date: " + Date + ",Price: " + Price);
+            
+
         }
 
 
